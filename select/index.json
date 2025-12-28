@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Purest One",
+  "base_artist": "Etro Anime",
+  "createdAt": "2025-12-28T01:29:13.878907Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Purest One",
+      "artist": "Etro Anime",
+      "has_synced": true,
+      "path": "select/01_Purest_One_Etro_Anime.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Purest One",
+      "artist": "Descend",
+      "has_synced": false,
+      "path": "select/02_The_Purest_One_Descend.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Purest One",
+      "artist": "Etro Anime",
+      "has_synced": false,
+      "path": "select/pl_01_Purest_One_Etro_Anime.txt"
+    }
+  ]
+}
